@@ -75,21 +75,16 @@ Vous pourrez y choisir :
 
 ## Contenu du projet
 
+```
 Responsive-Pricing-Table-Pack/
-
-├── index.html # Page d’accueil de sélection
-
-├── index-2-col.html # Tableau Essentiel / Premium
-
-├── index-3-col.html # Tableau Gratuit / Pro / Entreprise
-
+├── index.html              # Page d’accueil de sélection
+├── index-2-col.html        # Tableau Essentiel / Premium
+├── index-3-col.html        # Tableau Gratuit / Pro / Entreprise
 ├── css/
-
-│ └── styles.css # Feuille de style commune
-
-├── README.md # Ce fichier
-
-└── LICENSE # Licence MIT
+│   └── styles.css          # Feuille de style commune
+├── README.md               # Ce fichier
+└── LICENSE                 # Licence MIT
+```
 
 ---
 
