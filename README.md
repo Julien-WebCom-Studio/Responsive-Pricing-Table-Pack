@@ -22,12 +22,27 @@ Vous pouvez prévisualiser et sélectionner :
 ## 📸 Aperçu rapide
 
 ### 2 Colonnes
-![2 colonnes](https://julien-webcom-studio.github.io/Responsive-Pricing-Table-Pack/index-3-col.html)
+[2 colonnes](https://julien-webcom-studio.github.io/Responsive-Pricing-Table-Pack/index-3-col.html)
 
 ### 3 Colonnes
-![3 colonnes](https://julien-webcom-studio.github.io/Responsive-Pricing-Table-Pack/index-3-col.html)
-
-_(Remplace ces images par des captures réelles si besoin)_
+[3 colonnes](https://julien-webcom-studio.github.io/Responsive-Pricing-Table-Pack/index-3-col.html)
 
 ## 📂 Contenu du projet
 
+Responsive-Pricing-Table-Pack/
+├── index.html # Page d’accueil pour choisir un modèle
+├── index-2-col.html # Tableau Essentiel / Premium
+├── index-3-col.html # Tableau Gratuit / Pro / Entreprise
+├── css/
+│ └── styles.css # Feuille de style commune
+├── README.md # Ce fichier
+└── LICENSE # Licence MIT
+
+
+## 🧩 Intégration dans votre site
+
+1. Copiez le fichier HTML du modèle souhaité
+2. Ajoutez le fichier `css/styles.css` dans votre projet
+3. Liez-le dans le `<head>` de votre page :
+   ```html
+   <link rel="stylesheet" href="css/styles.css">
