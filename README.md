@@ -22,10 +22,10 @@ Vous pouvez prévisualiser et sélectionner :
 ## 📸 Aperçu rapide
 
 ### 2 Colonnes
-![2 colonnes](https://dummyimage.com/600x300/cccccc/000000&text=2+Colonnes)
+![2 colonnes](https://julien-webcom-studio.github.io/Responsive-Pricing-Table-Pack/index-3-col.html)
 
 ### 3 Colonnes
-![3 colonnes](https://dummyimage.com/900x300/cccccc/000000&text=3+Colonnes)
+![3 colonnes](https://julien-webcom-studio.github.io/Responsive-Pricing-Table-Pack/index-3-col.html)
 
 _(Remplace ces images par des captures réelles si besoin)_
 
