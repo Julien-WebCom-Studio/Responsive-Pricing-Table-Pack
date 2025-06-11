@@ -3,17 +3,23 @@
 **Responsive Pricing Table Pack** est un ensemble de tableaux de prix HTML/CSS modernes et adaptatifs, conçus pour les développeurs, freelances ou créateurs de sites e-commerce.  
 Copiez-collez, personnalisez, et vous êtes prêt !
 
+## 🚀 Démarrer ici
+
+👉 [Cliquez pour choisir un modèle de tableau](index.html)
+
+Vous pouvez prévisualiser et sélectionner :
+- ✅ Un modèle **2 colonnes** : Essentiel / Premium
+- ✅ Un modèle **3 colonnes** : Gratuit / Pro / Entreprise
+
 ## ✨ Fonctionnalités
 
-- 2 modèles :
-  - ✅ Tableau à 2 colonnes (Essentiel / Premium)
-  - ✅ Tableau à 3 colonnes (Gratuit / Pro / Entreprise)
+- HTML + CSS pur, sans dépendance
 - Design responsive (Flexbox)
 - Style épuré et professionnel
 - Effets au survol, mise en avant d’une offre
-- Code simple à intégrer
+- Code facile à copier-coller dans vos projets
 
-## 📸 Aperçu
+## 📸 Aperçu rapide
 
 ### 2 Colonnes
 ![2 colonnes](https://dummyimage.com/600x300/cccccc/000000&text=2+Colonnes)
@@ -21,12 +27,7 @@ Copiez-collez, personnalisez, et vous êtes prêt !
 ### 3 Colonnes
 ![3 colonnes](https://dummyimage.com/900x300/cccccc/000000&text=3+Colonnes)
 
-*(Remplace les images par des captures réelles une fois hébergées)*
+_(Remplace ces images par des captures réelles si besoin)_
 
-## 🚀 Comment l’intégrer
+## 📂 Contenu du projet
 
-1. Téléchargez les fichiers HTML et le dossier `css/`
-2. Intégrez le contenu de `index-2-col.html` ou `index-3-col.html` dans votre projet
-3. Liez le fichier CSS :
-   ```html
-   <link rel="stylesheet" href="css/styles.css">
