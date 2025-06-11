@@ -5,7 +5,7 @@ Copiez-collez, personnalisez, et vous êtes prêt !
 
 ## 🚀 Démarrer ici
 
-👉 [Cliquez pour choisir un modèle de tableau](index.html)
+👉 [Cliquez pour choisir un modèle de tableau](https://julien-webcom-studio.github.io/Responsive-Pricing-Table-Pack/)
 
 Vous pouvez prévisualiser et sélectionner :
 - ✅ Un modèle **2 colonnes** : Essentiel / Premium
