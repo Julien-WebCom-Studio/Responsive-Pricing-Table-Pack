@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Responsive Pricing Table Pack</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    .container {
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+
+    h1 {
+      margin-bottom: 1rem;
+      font-size: 2rem;
+      color: #2c3e50;
+    }
+
+    p {
+      margin-bottom: 2rem;
+      font-size: 1.1rem;
+    }
+
+    .grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2rem;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 2rem;
+      width: 280px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease;
+      text-align: left;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    .card h2 {
+      margin-top: 0;
+      color: #2980b9;
+    }
+
+    .card a {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.6rem 1.2rem;
+      background-color: #3498db;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    .card a:hover {
+      background-color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Responsive Pricing Table Pack</h1>
+    <p>Choisissez un modèle de tableau de prix responsive à prévisualiser :</p>
+
+    <div class="grid">
+      <div class="card">
+        <h2>2 Colonnes</h2>
+        <p>Un tableau simple pour comparer deux offres : Essentiel et Premium.</p>
+        <a href="index-2-col.html">Voir le modèle</a>
+      </div>
+      <div class="card">
+        <h2>3 Colonnes</h2>
+        <p>Un tableau plus complet avec trois options : Gratuit, Pro et Entreprise.</p>
+        <a href="index-3-col.html">Voir le modèle</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
