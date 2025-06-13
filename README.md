@@ -95,3 +95,4 @@ Ce projet est sous licence [MIT](LICENSE), ce qui signifie que vous êtes libre 
 ---
 
 > _Un design clair, un code propre, une intégration rapide. Bonne intégration à vous ! 🚀_
+
